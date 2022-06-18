@@ -1,14 +1,17 @@
 
 <p float ="left">
   <img src="Ozen.gif" width="250" >
-</p> 
-  
-  :wave: YOYO I'm Lee 
+  <p>
+   :wave: YOYO I'm Lee 
   :heart: Enjoy visiting to my profile
   I'm currently learning  
   * C#
   * Unity3D
   * Blender
+  </p>
+ </p> 
+  
+  
 
 
  
