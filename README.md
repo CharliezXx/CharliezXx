@@ -3,7 +3,7 @@
   <img src="Ozen.gif" width="250" >
 </p> 
   
-  :wave: YOYO I'm Lee <br>
+  :wave: YOYO I'm Lee 
   :heart: Enjoy visiting to my profile
   I'm currently learning  
   * C#
