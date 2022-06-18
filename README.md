@@ -2,12 +2,19 @@
   <img src="Ozen.gif" width="250" >
 </div>
   
-  
+<div>
   <p align="middle">
     :wave: YOYO I'm Lee <br>
     :heart: Enjoy visiting to my profile
   </p>
-  
+</div>
+
+<div align="left">
+  I'm currently learning
+  * C#
+  * Unity3D
+  * Blender
+</div>
     
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
