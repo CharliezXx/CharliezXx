@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm ChaLee you can call me Lee if you want.
+I’m currently learning C# and Unity3D
 
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
