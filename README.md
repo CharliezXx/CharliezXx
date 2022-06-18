@@ -1,12 +1,13 @@
 <div align="middle">
   <float ="left"><img src="Ozen.gif" width="250" ></float> 
-</div>
-  
-<div>
   <p align="middle">
     :wave: YOYO I'm Lee <br>
     :heart: Enjoy visiting to my profile
   </p>
+</div>
+  
+<div>
+  
 </div>
 
 
