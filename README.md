@@ -9,12 +9,12 @@
   </p>
 </div>
 
-<div  align="left">
+
   I'm currently learning
   * C#
   * Unity3D
   * Blender
-</div>
+
     
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
