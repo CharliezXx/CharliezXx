@@ -3,7 +3,7 @@
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
-  :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
+  :kissing_closed_eyes::kissing_closed_eyes:
   <br>
   
   ![OzenMyBeloved](https://static.wikia.nocookie.net/madeinabyss/images/a/a6/Ozen_looking_at_her_White_Whistle_Anime.png/revision/latest?cb=20180314022455)
