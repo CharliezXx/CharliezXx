@@ -1,16 +1,8 @@
-<div align="middle">
+
   <float ="left"><img src="Ozen.gif" width="250" ></float> 
-  <p align="middle">
-    :wave: YOYO I'm Lee <br>
-    :heart: Enjoy visiting to my profile
-  </p>
-</div>
   
-<div>
-  
-</div>
-
-
+  :wave: YOYO I'm Lee <br>
+  :heart: Enjoy visiting to my profile
   I'm currently learning  
   * C#
   * Unity3D
