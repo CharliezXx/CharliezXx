@@ -6,7 +6,7 @@
   :kissing_closed_eyes::kissing_closed_eyes:
   <br>
   
-  ![OzenMyBeloved]([https://static.wikia.nocookie.net/madeinabyss/images/a/a6/Ozen_looking_at_her_White_Whistle_Anime.png/revision/latest?cb=20180314022455](https://c.tenor.com/id5EBd-Lo6sAAAAC/ozen-dance.gif))
+  ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
   
   ## I'm currently learning :mortar_board:	:computer:
   * C#
