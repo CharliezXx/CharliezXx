@@ -1,6 +1,9 @@
 <p>
   <img src="Ozen.gif" width="250" align="center">
-  :wave: YOYO 
+  <p>
+    :wave: YOYO 
+  </p>
+  
 </p>
     
 <!--
