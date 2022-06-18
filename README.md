@@ -5,7 +5,7 @@
   
   <p align="middle">
     :wave: YOYO I'm Lee <br>
-    :heart: Enjoy visiting
+    :heart: Enjoy visiting to my profile
   </p>
   
     
