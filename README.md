@@ -1,11 +1,10 @@
-<p>
+
   <img src="Ozen.gif" width="250" align="middle">
   
   <p align="middle">
     :wave: YOYO 
   </p>
   
-</p>
     
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
