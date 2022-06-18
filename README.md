@@ -4,10 +4,8 @@
   <p float="left">
   <img src='Ozen.gif' width='250' align="left">
   <p float="left">
-
   ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>
 
-  ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
 
   
   > I blieved in Ozen the immovable
