@@ -1,5 +1,7 @@
-### Hi there 👋 I'm ChaLee you can call me Lee if you want.
-I’m currently learning C# and Unity3D
+### Hi there 👋 I'm ChaLee you , Welcome to my Github profile.
+
+  :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
+  !https://static.wikia.nocookie.net/madeinabyss/images/a/a6/Ozen_looking_at_her_White_Whistle_Anime.png/revision/latest?cb=20180314022455
 
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
