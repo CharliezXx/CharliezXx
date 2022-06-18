@@ -9,7 +9,7 @@
   </p>
 </div>
 
-<div align="left">
+<div  align="left">
   I'm currently learning
   * C#
   * Unity3D
