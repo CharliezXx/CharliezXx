@@ -7,15 +7,14 @@
     :wave: YOYO I'm Lee <br>
     :heart: Enjoy visiting to my profile
   </p>
-  <p> 
+</div>
+
+<p> 
     I'm currently learning
   * C#
   * Unity3D
   * Blender
-
   </p>
-</div>
-
 
  
     
