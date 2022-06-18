@@ -1,24 +1,6 @@
-:kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
-  :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
-  
-  <p float="left">
-  <img src='Ozen.gif' width='250' align="left">
-  <p float="left">
-    
-   Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>  
-  > I blieved in Ozen the immovable
-  
-  #### I'm currently learning :mortar_board::computer:
-  * C#
-  * Unity3D
-  * Blender
-
-  #### I also :joystick::closed_book:
-  * Drawing
-  * Painting
-  * Gaming
- 
- - Contact me!
+<p>
+  <img ="Ozen.gif">
+</p>
     
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
