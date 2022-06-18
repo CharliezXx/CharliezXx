@@ -6,9 +6,9 @@
   :wave: YOYO I'm Lee <br>
   :heart: Enjoy visiting to my profile <br>
   I'm currently learning  <br>
-  * C# <br>
-  * Unity3D <br>
-  * Blender <br>
+  C# <br>
+  Unity3D <br>
+  Blender <br>
   </p>
  </p> 
   
