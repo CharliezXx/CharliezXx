@@ -1,5 +1,7 @@
 
-  <float ="left"><img src="Ozen.gif" width="250" ></float> 
+<p float ="left">
+  <img src="Ozen.gif" width="250" >
+</p> 
   
   :wave: YOYO I'm Lee <br>
   :heart: Enjoy visiting to my profile
