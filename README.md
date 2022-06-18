@@ -2,7 +2,7 @@
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   
   <p float="left">
-  <img src='pic.jpg' width='250' align="left">
+  <img src='[pic.jpg](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)' width='250' align="left">
   <p float="left">
   
   ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
