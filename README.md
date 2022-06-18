@@ -2,12 +2,12 @@
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   
   <p float="left">
-  <img src='[pic.jpg](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)' width='250' align="left">
+  <img src='[Ozen](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)' width='250' align="left">
   <p float="left">
 
   ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>
 
-  </table>
+  ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
 
   
   > I blieved in Ozen the immovable
