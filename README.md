@@ -4,7 +4,8 @@
   
   
   <p align="middle">
-    :wave: YOYO 
+    :wave: YOYO I'm Lee
+    :heart: Enjoy visiting
   </p>
   
     
