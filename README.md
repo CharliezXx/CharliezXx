@@ -1,5 +1,5 @@
 <p>
-  <img src="Ozen.gif" width="20px">
+  <img src="Ozen.gif" width="20">
 </p>
     
 <!--
