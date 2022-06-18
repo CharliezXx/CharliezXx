@@ -1,17 +1,14 @@
-
-  :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
+:kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   
-  <br>
-  <table border='0'>
-    <tr>
-      <td>
-        ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
-      </td>
-      <td>
-        ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>
-      </td>
-    </tr>
+  <p float="left">
+  <img src='pic.jpg' width='250' align="left">
+  <p float="left">
+  
+  ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
+
+  ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>
+
   </table>
 
   
