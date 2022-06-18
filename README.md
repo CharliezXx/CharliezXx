@@ -1,5 +1,12 @@
 
+---
+title: "Get Started"
+output: flexdashboard::flex_dashboard
+---
 
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   
