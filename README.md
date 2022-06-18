@@ -1,18 +1,12 @@
 
----
-title: "Get Started"
-output: flexdashboard::flex_dashboard
----
-
-```{r setup, include=FALSE}
-library(flexdashboard)
-```
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
   
   <br>
  -------------------------------------------------------------------------------
+ ```
   ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
+  ```
  --------------------------------------------------------------------------------
   ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>
   > I blieved in Ozen the immovable
