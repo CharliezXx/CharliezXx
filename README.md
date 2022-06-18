@@ -5,7 +5,9 @@
   <br>
   <table border='0'>
     <tr>
-      ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
+      <td>
+        ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
+      </td>
     </tr>
   </table>
 
