@@ -1,5 +1,7 @@
-
-  <img src="Ozen.gif" width="250" align="middle">
+<div align="middle">
+  <img src="Ozen.gif" width="250" >
+</div>
+  
   
   <p align="middle">
     :wave: YOYO 
