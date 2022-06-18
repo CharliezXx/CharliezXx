@@ -7,14 +7,17 @@
     :wave: YOYO I'm Lee <br>
     :heart: Enjoy visiting to my profile
   </p>
-</div>
-
-
-  I'm currently learning
+  <p> 
+    I'm currently learning
   * C#
   * Unity3D
   * Blender
 
+  </p>
+</div>
+
+
+ 
     
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
