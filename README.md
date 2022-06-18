@@ -1,5 +1,5 @@
 <div align="middle">
-  <img src="Ozen.gif" width="250" >
+  <float ="left"><img src="Ozen.gif" width="250" ></float> 
 </div>
   
 <div>
