@@ -5,7 +5,7 @@
   
   <br>
   
-  ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif) ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.
+  |![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif) | ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.|
   
   #### I'm currently learning :mortar_board::computer:
   * C#
