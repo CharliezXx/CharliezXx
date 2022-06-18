@@ -7,15 +7,18 @@
   
   ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
   
-  ## I'm currently learning :mortar_board:	:computer:
+  - I'm currently learning :mortar_board:	:computer:
   * C#
   * Unity3D
   * Blender
 
-  ## I also :joystick: :video_game: :closed_book:
+  - I also :joystick: :video_game: :closed_book:
   * Drawing
   * Painting
   * Gaming
+ 
+ - Contact me!
+    
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
