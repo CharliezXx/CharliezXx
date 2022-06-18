@@ -8,10 +8,13 @@
       <td>
         ![OzenMyBeloved](https://i.kym-cdn.com/photos/images/original/001/309/068/d2c.gif)
       </td>
+      <td>
+        ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>
+      </td>
     </tr>
   </table>
 
-  ### Yoooo :yum: I'm ***Lee*** , Welcome to my Github profile.<br>
+  
   > I blieved in Ozen the immovable
   
   #### I'm currently learning :mortar_board::computer:
