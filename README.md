@@ -7,7 +7,7 @@
  <h3 align="left">Smol Ozen , My beloved<br></h3>
  
  <p float="left">
-   <img src='NewOzen.gif' width='500'align="left">
+   <img src='Oz.gif' width='510'align="left">
 </p>
 <p align="middle">
   <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
@@ -19,37 +19,27 @@
  and I usually listen to music but it's kinda random XD 
  so yeah feel free to contact me I really like to know someone new!   
 	
-##### 👨‍💻  I'm currently learning |
-Engineering ,C# ,Unity3D ,Blender 	
-##### 🕹️  I also |
-Drawing Painting Playing games 
+----------
+
+##### 👨‍💻  I'm currently learning 
+Engineering | C# | Unity3D | Blender 	
+##### 🕹️  I also 
+Drawing | Painting | Playing games 
 
 
-
+----------
  
- #### Now I'm listening to 🔊
+ #### 🔊🎧🎵 Now I'm listening to ...
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4)
 	
   <h4 align="left">	
-  <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
+  <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">👈 Creator of this art</a>
 	  
 
 
 
-	
-
-
-
-	  
-	
-
-
-
-
-
-
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharliezXx&show_icons=true&theme=dark&hide=contribs) <br>
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharliezXx&show_icons=true&theme=dark&hide=contribs) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharliezXx&layout=compact&theme=dark)
 
 <p>
