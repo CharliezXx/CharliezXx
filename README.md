@@ -1,17 +1,13 @@
-
-
-<p align="middle">
-  <img src='Ozen.gif' width='250' >
-	<br>
-   :wave: YOYO I'm Lee <br>
-   :heart: Enjoy visiting to my profile <br>
-	<p align="middle">
-   		I'm currently learning  <br>
-   		C# <br>
-   		Unity3D <br>
-   		Blender <br>
-	</p>
+<p float="left" >
+  <img src='Ozen.gif' width='250' >  
 </p> 
+<p align="middle">
+   :wave: YOYO I'm Lee <br>:heart: Enjoy visiting to my profile <br>		
+   I'm currently learning <br>
+   C# <br>
+   Unity3D <br>
+   Blender <br>
+</p>
   
   
 
