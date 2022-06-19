@@ -7,7 +7,7 @@
  <h3 align="left">Smol Ozen , My beloved<br></h3>
  
  <p float="left">
-   <img src='Oz.gif' width='430'align="left">
+   <img src='Oz.gif' width='350'align="left">
 </p>
 <p align="middle">
   <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
