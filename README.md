@@ -1,6 +1,6 @@
 
 <p float ="left">
-  <img src="Ozen.gif" width="250" align="left">
+  <img src='Ozen.gif' width='250' align="left">
   <p float ="left">
    :wave: YOYO I'm Lee <br>
    :heart: Enjoy visiting to my profile <br>
