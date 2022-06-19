@@ -21,6 +21,12 @@
 	
 ----------
 
+ ###### 🔊🎧🎵 Now I'm listening to ...<br>
+ 
+[![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)	
+<h4 align="left">	
+  <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">👈 Creator of this art</a>
+
 |   👨‍💻  I'm currently learning about ...     |     🕹️  I also do this in my free time ...    |
 |-------------------------------------------------|---------------------------------------------------|
 |  👨‍🔧Engineering , 💻C# ,<br> 🎮Unity3D , 🚀Blender       |   ✒️Drawing , 🖋️Painting ,<br> 🎮Playing games     |
@@ -28,12 +34,8 @@
 
 
  
- ###### 🔊🎧🎵 Now I'm listening to ...<br>
- 
-[![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)
-	
-  <h4 align="left">	
-  <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">👈 Creator of this art</a>
+
+  
 	  
 
 
