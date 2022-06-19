@@ -7,18 +7,23 @@
  <h3 align="left">Smol Ozen , My beloved<br></h3>
  
  <p float="left">
-   <img src='Ozen.gif' width='500'align="left">
+   <img src='OzenNew.gif' width='350'align="left">
 	
-<p>
-  <h2 align="left">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
+<p align="middle">
+  <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
 </p>
    
-> I'm studying in Thailand, and interested in coding but i'm just a newbie xD and I also like to play games some kind of sandbox , survival
- <br>and I usually listen to music but it's kinda random XD so yeah feel free to contact me I really like to know someone new!   
+<p align="right">   
+> I'm studying in Thailand, and interested in coding but i'm just a newbie xD 
+ and I also like to play games some kind of sandbox , survival
+ and I usually listen to music but it's kinda random XD 
+ so yeah feel free to contact me I really like to know someone new!   
+	
 ##### 👨‍💻  I'm currently learning | Engineering ,C# ,Unity3D ,Blender 	
 ##### 🕹️  I also | Drawing Painting Playing games 
-   
- </p>
+
+
+</p>
  
  #### Now I'm listening to 🔊
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4)
