@@ -7,7 +7,7 @@
  <h3 align="left">Smol Ozen , My beloved<br></h3>
  
  <p float="left">
-   <img src='Oz.gif' width='360'align="left">
+   <img src='Oz.gif' width='350'align="left">
 </p>
 <p align="middle">
   <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
@@ -26,18 +26,12 @@
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)	
 <h4 align="left">	
   <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">👈 Creator of this art</a>
+	
+-----------
 
 |   👨‍💻  I'm currently learning about ...     |     🕹️  I also do this in my free time ...    |
 |-------------------------------------------------|---------------------------------------------------|
 |  👨‍🔧Engineering , 💻C# ,<br> 🎮Unity3D , 🚀Blender       |   ✒️Drawing , 🖋️Painting ,<br> 🎮Playing games     |
-
-
-
- 
-
-  
-	  
-
 
 
 ## Stats
