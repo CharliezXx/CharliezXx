@@ -1,9 +1,13 @@
-  # Smol Ozen , My beloved
-  <img src='Ozen.gif' width='100%' float="middle">
-	<a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
+  <h3 align="middle">
+  Smol Ozen , My beloved<br>
+  <img src='Ozen.gif' width='50%' float="middle">
+  <h4 align="middle">	
+  <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
 
-
-## :wave: YOYO I'm Lee :heart: Enjoy visiting my profile <br>	
+ <h3 align="middle">
+ :wave: YOYO I'm Lee :heart: Enjoy visiting my profile <br>	
+	  
+<h5 align="left">  
 > I'm studying in Thailand, and interested in coding but i'm just a newbie xD and I also like to play games some kind of sandbox , survival
  <br>and I usually listen to music but it's kinda random XD so yeah feel free to contact me I really like to know someone new!
 
@@ -12,6 +16,7 @@
 * C# 📜
 * Unity3D 🪓
 * Blender 🧰
+
 ### I also 		
 * Drawing ✏️
 * Painting 🖌️
