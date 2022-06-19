@@ -21,10 +21,10 @@
 	
 ----------
 
-#### 👨‍💻  I'm currently learning 
-###### Engineering | C# | Unity3D | Blender 	
-#### 🕹️  I also 
-###### Drawing | Painting | Playing games 
+|   👨‍💻  I'm currently learning about ...     |     🕹️  I also do this in my free time ...    |
+|-------------------------------------------------|---------------------------------------------------|
+|  👨‍🔧Engineering , 💻C# ,<br> 🎮Unity3D , 🚀Blender       |   ✒️Drawing , 🖋️Painting ,<br> 🎮Playing games     |
+
 
 
 ----------
