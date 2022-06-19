@@ -21,15 +21,16 @@
 	
 ----------
 
-##### 👨‍💻  I'm currently learning 
-Engineering | C# | Unity3D | Blender 	
-##### 🕹️  I also 
-Drawing | Painting | Playing games 
+#### 👨‍💻  I'm currently learning 
+###### Engineering | C# | Unity3D | Blender 	
+#### 🕹️  I also 
+###### Drawing | Painting | Playing games 
 
 
 ----------
  
- #### 🔊🎧🎵 Now I'm listening to ...
+ ###### 🔊🎧🎵 Now I'm listening to ...<br>
+ 
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)
 	
   <h4 align="left">	
