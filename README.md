@@ -30,7 +30,7 @@ Drawing | Painting | Playing games
 ----------
  
  #### 🔊🎧🎵 Now I'm listening to ...
-[![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4)
+[![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)
 	
   <h4 align="left">	
   <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">👈 Creator of this art</a>
