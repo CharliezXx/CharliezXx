@@ -4,7 +4,7 @@
 
 
 ## :wave: YOYO I'm Lee :heart: Enjoy visiting my profile <br>	
-I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
+> I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
  <br>So please be kind to me ahaha
 
 ### I'm currently learning <br>
@@ -12,13 +12,17 @@ I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
 * C# 📜
 * Unity3D 🪓
 * Blender 🧰
-### I also
+### I also 		
 * Drawing ✏️
 * Painting 🖌️
 * Playing games 🕹️
 
 ### Now I'm listening to 🔊
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4)
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharliezXx&show_icons=true&theme=dark)
+
 
 ### Contact me 📞
 
