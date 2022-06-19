@@ -22,7 +22,7 @@ I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
 <a href="https://twitter.com/chhharliex"><img src="https://manuals.plus/wp-content/uploads/2021/09/twitter-icon.png" width="50px"></a>
   
 
-   
+   [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
   
   
