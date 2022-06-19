@@ -1,15 +1,25 @@
-
+  # I believed in smol Ozen
   <img src='Ozen.gif' width='100%' float="middle">
 	<a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
 
 
+## :wave: YOYO I'm Lee :heart: Enjoy visiting to my profile <br>	
+#### I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
+#### So please be kind to me ahaha
 
-   ## :wave: YOYO I'm Lee :heart: Enjoy visiting to my profile <br>		
-   ### I'm currently learning <br>
-   * C# 📜<br>
-   * Unity3D 🪓<br>
-   * Blender 🧰<br>
-
+### I'm currently learning <br>
+* Engineering 👨‍💻
+* C# 📜
+* Unity3D 🪓
+* Blender 🧰
+### I also
+* Drawing ✏️
+* Painting 🖌️
+* Playing games 🕹️
+### Contact me
+<a href="https://www.facebook.com/NahhhLeo/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50px"></a>
+<a herf="https://www.instagram.com/chalalalaleeeeee.030/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50px"></a>
+  
 
    
 
