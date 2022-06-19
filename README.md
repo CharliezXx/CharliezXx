@@ -4,8 +4,8 @@
 
 
 ## :wave: YOYO I'm Lee :heart: Enjoy visiting my profile <br>	
-> I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
- <br>So please be kind to me ahaha
+> I'm studying in Thailand, and interested in coding but i'm just a newbie xD and I also like to play games some kind of sandbox , survival
+ <br>and I usually listen to music but it's kinda random XD so yeah feel free to contact me I really like to know someone new!
 
 ### I'm currently learning <br>
 * Engineering 👨‍💻
