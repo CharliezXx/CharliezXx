@@ -1,13 +1,16 @@
-<p float="left" margin-bottom="200px">
-  <img class="img-left" src='Ozen.gif' width='250'>
-	<a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator</a>
-  <p float"left">
-   :wave: YOYO I'm Lee <br>:heart: Enjoy visiting to my profile <br>		
+
+  <img src='Ozen.gif' width='250' float="middle">
+	<a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
+
+
+
+   ## :wave: YOYO I'm Lee 
+   :heart: Enjoy visiting to my profile <br>		
    I'm currently learning <br>
    C# <br>
    Unity3D <br>
    Blender <br>
-</p> 
+
 
    
 
