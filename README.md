@@ -3,7 +3,7 @@
 	<a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
 
 
-## :wave: YOYO I'm Lee :heart: Enjoy visiting to my profile <br>	
+## :wave: YOYO I'm Lee :heart: Enjoy visiting my profile <br>	
 I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
  <br>So please be kind to me ahaha
 
