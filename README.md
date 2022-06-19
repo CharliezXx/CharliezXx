@@ -23,7 +23,7 @@
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharliezXx&show_icons=true&theme=dark)
 
-
+_____________________________________________________
 ### Contact me 📞
 
 <a href="https://www.facebook.com/NahhhLeo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -36,7 +36,7 @@
  
   
 
-[![Visits Badge](https://badges.pufler.dev/visits/CharliezXx/CharliezXx)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/CharliezXx/CharliezXx)](https://badges.pufler.dev "Amogus")
 [![Years Badge](https://badges.pufler.dev/years/CharliezXx)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/CharliezXx)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/CharliezXx/CharliezXx)](https://badges.pufler.dev)
