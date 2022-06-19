@@ -18,7 +18,7 @@
 * Playing games 🕹️
 ### Contact me
 <a href="https://www.facebook.com/NahhhLeo/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50px"></a>
-<a herf="https://www.instagram.com/chalalalaleeeeee.030/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50px"></a>
+<a href="https://www.instagram.com/chalalalaleeeeee.030/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50px"></a>
   
 
    
