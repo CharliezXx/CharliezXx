@@ -32,11 +32,16 @@ I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
  
   
 
-	
+[![Visits Badge](https://badges.pufler.dev/visits/CharliezXx/CharliezXx)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/CharliezXx)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/CharliezXx)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/CharliezXx/CharliezXx)](https://badges.pufler.dev)
+
+
     
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Visitor Count](https://profile-counter.glitch.me/CharliezXx/count.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
