@@ -1,13 +1,15 @@
-<p float="left" >
-  <img src='Ozen.gif' width='250' >  
-</p> 
-<p align="middle">
+<p float="left" margin-bottom="200px">
+  <img class="img-left" src='Ozen.gif' width='250' href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">
+  <p float"left">
    :wave: YOYO I'm Lee <br>:heart: Enjoy visiting to my profile <br>		
    I'm currently learning <br>
    C# <br>
    Unity3D <br>
    Blender <br>
-</p>
+</p> 
+
+   
+
   
   
 
