@@ -21,14 +21,15 @@ I'm studying in Thailand and I'm interested in coding but i'm just a newbie xD
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4)
 
 ### Contact me 📞
-<a href="https://www.facebook.com/NahhhLeo/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50px"></a>
-<a href="https://www.instagram.com/chalalalaleeeeee.030/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50px"></a>
-<a href="https://twitter.com/chhharliex"><img src="https://manuals.plus/wp-content/uploads/2021/09/twitter-icon.png" width="50px"></a>
-  
+
+<a href="https://www.facebook.com/NahhhLeo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/chalalalaleeeeee.030/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/chhharliex"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="discord/app/users/852606416526901279"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
    
 
-  
+ 
   
 
 	
