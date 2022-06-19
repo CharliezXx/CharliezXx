@@ -1,4 +1,4 @@
-  # I believed in smol Ozen
+  # Smol Ozen , My beloved
   <img src='Ozen.gif' width='100%' float="middle">
 	<a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
 
