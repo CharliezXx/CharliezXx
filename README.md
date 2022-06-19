@@ -1,7 +1,8 @@
 
+
 <p float ="left">
   <img src='Ozen.gif' width='250' align="left">
-  <p float ='left'>
+  <p align="left" style="padding-left: 20px;">
    :wave: YOYO I'm Lee <br>
    :heart: Enjoy visiting to my profile <br>
    I'm currently learning  <br>
@@ -12,9 +13,9 @@
  </p> 
   
   
+~~The world is flat.~~
 
-
- 
+	
     
 <!--
 **CharliezXx/CharliezXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
