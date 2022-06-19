@@ -17,7 +17,7 @@
 > I'm studying in Thailand, and interested in coding but i'm just a newbie xD 
  and I also like to play games some kind of sandbox , survival
  and I usually listen to music but it's kinda random XD 
- so yeah feel free to contact me I really like to know someone new!   
+ so yeah feel free to contact me<br> I really like to know someone new!   
 	
 ----------
 
