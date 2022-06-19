@@ -36,10 +36,10 @@
  
   
 
-![Visits Badge](https://badges.pufler.dev/visits/CharliezXx/CharliezXx)
-![Years Badge](https://badges.pufler.dev/years/CharliezXx)
-![Repos Badge](https://badges.pufler.dev/repos/CharliezXx)
-![Updated Badge](https://badges.pufler.dev/updated/CharliezXx/CharliezXx)
+[![Visits Badge](https://badges.pufler.dev/visits/CharliezXx/CharliezXx)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/CharliezXx)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/CharliezXx)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/CharliezXx/CharliezXx)](https://badges.pufler.dev)
 
 
     
