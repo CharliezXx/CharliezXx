@@ -33,7 +33,7 @@
 	
 |   👨‍💻  I'm currently learning about ...     |     🕹️  I also do this in my free time ...    |
 |-------------------------------------------------|---------------------------------------------------|
-|  👨‍🔧Engineering , 💻C# ,<br> 🎮Unity3D , 🚀Blender       |   ✒️Drawing , 🖋️Painting ,<br> 🎮Playing games     |
+|  👨‍🔧Engineering , 💻C# ,<br> 🎮Unity3D , 🚀Blender       |   ✒️Draw , 🖋️Paint , 🎮Play games     |
 
 
 ## Stats
