@@ -37,8 +37,8 @@
 
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharliezXx&show_icons=true&theme=dark&hide=contribs) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharliezXx&layout=compact&theme=dark)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CharliezXx&show_icons=true&theme=dark&hide=contribs" alt="CharliezXx"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharliezXx&layout=compact&theme=dark"></p>
 
 <p>
 	<h2 align="middle">Contact me 📞</h2>
