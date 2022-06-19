@@ -1,15 +1,14 @@
 
-  <img src='Ozen.gif' width='250' float="middle">
+  <img src='Ozen.gif' width='100%' float="middle">
 	<a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">Creator of this art</a>
 
 
 
-   ## :wave: YOYO I'm Lee 
-   :heart: Enjoy visiting to my profile <br>		
-   I'm currently learning <br>
-   C# <br>
-   Unity3D <br>
-   Blender <br>
+   ## :wave: YOYO I'm Lee :heart: Enjoy visiting to my profile <br>		
+   ### I'm currently learning <br>
+   * C# 📜<br>
+   * Unity3D 🪓<br>
+   * Blender 🧰<br>
 
 
    
