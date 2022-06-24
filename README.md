@@ -2,7 +2,7 @@
 [![Years Badge](https://badges.pufler.dev/years/CharliezXx)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/CharliezXx)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/CharliezXx/CharliezXx)](https://badges.pufler.dev)
-
+<a href="https://github.com/CharliezXx?tab=followers"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
  <h3 align="left"> 💢💖 Smol Ozen , My beloved 💖💢<br></h3>
  
