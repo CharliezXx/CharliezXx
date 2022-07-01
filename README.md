@@ -1,8 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/CharliezXx/CharliezXx)](https://badges.pufler.dev "Amogus")
-[![Years Badge](https://badges.pufler.dev/years/CharliezXx)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/CharliezXx)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/CharliezXx/CharliezXx)](https://badges.pufler.dev)
-<a href="https://github.com/CharliezXx?tab=followers"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a href="https://github.com/CharliezXx?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
  <h3 align="left"> 💢💖 Smol Ozen , My beloved 💖💢<br></h3>
  
@@ -45,11 +42,11 @@
 </p>
 
 <p align="middle">
-<a href="https://www.facebook.com/NahhhLeo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/chalalalaleeeeee.030/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/chhharliex"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://ko-fi.com/abyzz"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-<a href="https://discordapp.com/users/852606416526901279"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.facebook.com/NahhhLeo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/chalalalaleeeeee.030/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/chhharliex"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://ko-fi.com/abyzz"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+<a href="https://discordapp.com/users/852606416526901279"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
 
 
