@@ -22,8 +22,6 @@
  
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)	
 <h4 align="left">	
-  <a href="https://cowfee-gt.tumblr.com/post/165344350607/just-an-ozen-pillar-crawling-your-feed">⬅️ Creator of this art</a> | Inspired by ➡️ <a href="https://github.com/staciax">STACIA</a>
-	
 -----------
 
 ## What am I doing?
