@@ -4,7 +4,7 @@
  <h3 align="left"> 💢💖 Smol Ozen , My beloved 💖💢<br></h3>
  
  <p float="left">
-   <img src=งAnimation2.gif' width='335'align="left">
+   <img src='Animation2.gif' width='335'align="left">
 </p>
 <p align="middle">
   <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
