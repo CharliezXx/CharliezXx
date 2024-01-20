@@ -33,7 +33,7 @@
 <a href="https://sharemygame.com/@Abyzz/project-boost">Play my game
 ## Stats
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=CharliezXx&show_icons=true&theme=dark&hide=contribs" alt="CharliezXx"> </p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharliezXx&layout=compact&theme=dark"> <iframe frameborder="0" src="https://itch.io/embed/2470644?linkback=true&amp;bg_color=455b4c&amp;fg_color=ffffff" width="552" height="167"><a href="https://potatiz.itch.io/deepdark">DeepDarkTileset by Derfalke</a></iframe></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharliezXx&layout=compact&theme=dark"></p>
 	
 <p>
 	<h2 align="middle">Contact me 📞</h2>
