@@ -1,5 +1,6 @@
 <html>
-   <body style="background-color:powderblue;">
+   <body >
+     <div style="background-color:red;">
       <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
       <p align="middle">
          Flashbang!!!  
@@ -29,5 +30,6 @@
       <a href="https://twitter.com/chhharliex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
       <a href="https://discordapp.com/users/852606416526901279" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
       </p>
+      </div>
    </body>
 </html>
