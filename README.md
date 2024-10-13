@@ -10,7 +10,7 @@
   <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
 </p>
    
-
+<img src ="[Animation2.gif](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)">
 
  ###### 🔊🎧🎵 Now I'm listening to ...<br>
  
