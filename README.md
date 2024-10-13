@@ -2,7 +2,7 @@
 <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ##
-<center>![teh heh](Animation2.gif"Teh heh")</center>
+<p align = "middle">![teh heh](Animation2.gif"Teh heh")</p>
 
 
  
@@ -14,8 +14,7 @@
 
  ###### 🔊🎧🎵 Now I'm listening to ...<br>
  
-[![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)	
-<h4 align="middle">	
+<p align="midddle">[![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)</p>		
 
 
 ## What am I doing?
