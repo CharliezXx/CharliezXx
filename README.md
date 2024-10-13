@@ -18,8 +18,8 @@
 </p>		
 
 
-<p align ="middle"><i><h2>What am I doing?</h2></i></p>
-<p align ="middle"><i>Just messing around~</i></p>
+<i><h2 align = "middle">About me?</h2></i>
+<p align ="middle"><i>I'm a big fan of Bocchi the rock~</i></p>
 
 
 <p align ="middle"><a href="https://sharemygame.com/@Abyzz/project-boost" >Play my game</p>
