@@ -2,10 +2,8 @@
 <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ##
+ ![teh heh](Animation2.gif)
  
- <p float="left">
-   <img src='Animation2.gif' width='335'align="left">
-</p>
 <p align="middle">
   <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
 </p>
@@ -16,13 +14,12 @@
  
 [![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)	
 <h4 align="middle">	
------------
+
 
 ## What am I doing?
 Just messing around~	
 
 <a href="https://sharemygame.com/@Abyzz/project-boost">Play my game
-## Stats
 
 	
 <p>
