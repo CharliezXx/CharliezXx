@@ -2,7 +2,7 @@
 <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ##
-<center>![teh heh](Animation2.gif"Teh heh")</center>center>
+<center>![teh heh](Animation2.gif"Teh heh")</center>
 
 
  
