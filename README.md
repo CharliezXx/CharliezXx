@@ -13,7 +13,7 @@
 
 
  ###### 🔊🎧🎵 Now I'm listening to ...<br>
-<a herf = "https://spotify-now-playing-novatorem.vercel.app/api/spotify"> <img src ="https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false"> </a>
+<a herf = "https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false "> <img src ="https://spotify-now-playing-novatorem.vercel.app/api/spotify"> </a>
 
 <p align="midddle">[![Spotify](https://spotify-now-playing-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false)</p>		
 
