@@ -1,7 +1,9 @@
 
 <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
-##
+<p align="middle">
+  Flashbang!!!  
+</p>
 <p align = "middle"> <img src ="Animation2.gif"></p>
 
 
