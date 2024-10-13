@@ -2,7 +2,8 @@
 <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ##
- ![teh heh](Animation2.gif)
+|  ![teh heh](Animation2.gif"Teh heh") |  test |
+
  
 <p align="middle">
   <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
