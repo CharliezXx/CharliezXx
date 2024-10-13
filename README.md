@@ -1,5 +1,5 @@
 <html>
-   <body style="background-color:white;">
+   <body style="background-color:powderblue;">
       <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
       <p align="middle">
          Flashbang!!!  
