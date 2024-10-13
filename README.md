@@ -7,12 +7,12 @@
 
  
 <p align="middle">
-  <h2 align="middle">:wave: YOYO I'm Lee :heart: Enjoy visiting my profile<br></h2>	  
+  <h2 align="middle"> 私は　リイ<br></h2>	  
 </p>
    
 
 
- ###### 🔊🎧🎵 Now I'm listening to ...<br>
+<p align="middle"> ###### 🔊🎧🎵 Now I'm listening to ...<br></p>
 
 <p align="middle"><a herf = "https://open.spotify.com/user/31nnfyjov533jlmfw5ro7cmcjyz4&redirect=false "> <img src ="https://spotify-now-playing-novatorem.vercel.app/api/spotify"> </a>
 </p>		
