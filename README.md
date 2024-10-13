@@ -18,11 +18,11 @@
 </p>		
 
 
-<p align ="middle"><i><b>What am I doing?</b></i></p>
+<p align ="middle"><i><h2>What am I doing?</h2></i></p>
 <p align ="middle"><i>Just messing around~</i></p>
 
 
-<a href="https://sharemygame.com/@Abyzz/project-boost" align="middle">Play my game
+<p align ="middle"><a href="https://sharemygame.com/@Abyzz/project-boost" >Play my game</p>
 
 	
 <p>
