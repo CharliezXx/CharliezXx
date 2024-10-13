@@ -1,9 +1,4 @@
 <html>
-   <style type="text/css">
-      body {
-      background-color:white;
-      }
-   </style>
    <body>
       <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
       <p align="middle">
