@@ -1,5 +1,10 @@
+<style type="text/css">
+  body {
+    background-color:white;
+  }
+</style>
 <html>
-<body style="background-color:white;">
+<body>
 <a href="https://github.com/CharliezXx?tab=followers" target="_blank" align="middle"><img src="https://img.shields.io/github/followers/CharliezXx?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="middle">
@@ -37,8 +42,6 @@
 <a href="https://twitter.com/chhharliex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://discordapp.com/users/852606416526901279" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
-
-
 
 
 </body>
