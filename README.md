@@ -6,7 +6,7 @@
       </p>
       <p align = "middle"> <img src ="Animation2.gif"></p>
       <p align="middle">
-      <h2 align="middle"> 私は　リイ<br></h2>
+      <h2 align="middle"> 私は　リー<br></h2>
       </p>
       <p align ="middle"><i>I'm a big fan of Bocchi the rock~</i></p>
       <i>
